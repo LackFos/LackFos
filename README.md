@@ -9,5 +9,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+#### Fullstack Developmnet:
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
 #### Database Technologies:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
