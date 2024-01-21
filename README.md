@@ -16,3 +16,7 @@
 
 #### Database Technologies:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+### Reach Me Out on Discord
+Feel free to connect with me on [Discord](https://discordid.netlify.app/?id=561798981454135326)
+
