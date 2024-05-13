@@ -20,6 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-### Reach Me Out on Discord
+### Reach Me Out
 Feel free to connect with me on [Discord](https://discordid.netlify.app/?id=561798981454135326), [LinkedIn](https://www.linkedin.com/in/elvis-zheng)
 
