@@ -21,5 +21,5 @@
 
 
 ### Reach Me Out on Discord
-Feel free to connect with me on [Discord](https://discordid.netlify.app/?id=561798981454135326)
+Feel free to connect with me on [Discord](https://discordid.netlify.app/?id=561798981454135326), [LinkedIn](https://www.linkedin.com/in/elvis-zheng)
 
