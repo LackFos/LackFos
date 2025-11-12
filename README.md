@@ -1,4 +1,4 @@
-## Fullstack Website Developer
+## Fullstack Developer
 
 #### Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
