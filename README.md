@@ -17,6 +17,8 @@
 #### Backend Development:
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Bun.js](https://img.shields.io/badge/-Bun.js-000000?style=flat&logo=bun&logoColor=white)
+![Elysia.js](https://img.shields.io/badge/-Elysia.js-7A3FFC?style=flat&logo=elysia&logoColor=white)
 
 #### Database & Caching Technologies:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
